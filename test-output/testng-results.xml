@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="184165" started-at="2020-02-09T12:20:02Z" finished-at="2020-02-09T12:23:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="184165" started-at="2020-02-09T12:20:02Z" finished-at="2020-02-09T12:23:06Z">
+      <class name="com.assignment.selenium.test.TC_PhonePriceComparision">
+        <test-method status="PASS" signature="setupDriver()[pri:0, instance:com.assignment.selenium.test.TC_PhonePriceComparision@14acaea5]" name="setupDriver" is-config="true" duration-ms="37912" started-at="2020-02-09T12:20:02Z" finished-at="2020-02-09T12:20:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setupDriver -->
+        <test-method status="PASS" signature="comparePrice()[pri:0, instance:com.assignment.selenium.test.TC_PhonePriceComparision@14acaea5]" name="comparePrice" duration-ms="144662" started-at="2020-02-09T12:20:40Z" finished-at="2020-02-09T12:23:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- comparePrice -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.assignment.selenium.test.TC_PhonePriceComparision@14acaea5]" name="teardown" is-config="true" duration-ms="1504" started-at="2020-02-09T12:23:04Z" finished-at="2020-02-09T12:23:06Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.assignment.selenium.test.TC_PhonePriceComparision -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
